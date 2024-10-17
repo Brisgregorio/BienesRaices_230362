@@ -1,0 +1,35 @@
+{
+  "name": "mx.utxj.ti.awos.bienesraices",
+  "version": "1.0.0",
+  "description": "Proyecto de Clase para la unidad 2, de AWOS, utilizado Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brisgregorio/BienesRaices_230362.git"
+  },
+  "keywords": [
+    "MVC",
+    "Express",
+    "Sequelize",
+    "MySQL",
+    "TailwindCSS",
+    "Nodemon",
+    "NodeJS",
+    "PUG",
+    "NodeMailer",
+    "Miltrap",
+    "JWT"
+  ],
+  "author": "Brisa Nallely Garcia Gregorio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brisgregorio/BienesRaices_230362/issues"
+  },
+  "homepage": "https://github.com/Brisgregorio/BienesRaices_230362#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
